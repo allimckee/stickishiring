@@ -1,8 +1,6 @@
 STICK IS BUILDING FOUNDING TEAM
 Seeking Inventors and Builders to bring Automated Illustration Software to Life
 
-'''
-
 Hi, I’m Alli. I’ve started a company called Stick, and I’m looking for a technical co-founder and a founding Engineer. In case it might be you or someone you know, let me tell you more.
  
 -----------------------------------WHY THIS?-----------------------------------

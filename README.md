@@ -1,23 +1,27 @@
-'''
-
-Stick is Building Founding Team: 
+STICK IS BUILDING FOUNDING TEAM
 Seeking Inventors and Builders to bring Automated Illustration Software to Life
+
+'''
 
 Hi, I’m Alli. I’ve started a company called Stick, and I’m looking for a technical co-founder and a founding Engineer. In case it might be you or someone you know, let me tell you more.
  
-Why does Stick exist?
+-----------------------------------WHY THIS?-----------------------------------
+
+WHY DOES STICK EXIST?
  
 You’re overwhelmed by your inbox. You’re bored by bad PowerPoints. We get it. You need more effective and efficient ways to engage at work. Instagram and Snapchat have shown us that the world is shifting to become more and more visual, but work communication tools are lagging.  We live in images, but we work in words. Stick can change that. We're democratizing design so that our visual generation can communicate and connect the way we're meant to - with images.
  
-What is Stick’s product?
+WHAT IS STICK's PRODUCT?
  
 We’re building a tool to automate the illustration of ideas. While we’re starting with a Chrome plug-in for visual email, the vision is to become the go-to platform for people to create visuals of all kinds. We aren’t trying to build something that Microsoft will buy in two years. We want to become a Microsoft in ten.
  
-Who is on Stick’s team?
+-----------------------------------WHY US?-----------------------------------
+
+WHO IS ON STICK's TEAM?
  
 Right now, “we” is just me - Alli McKee. I’m a “Visionary” looking for an “Inventor” and a “Builder” to join me in bringing this vision to life. But I’m not the Erlich-Bachman-Vision-Questing type of Visionary – I’m a hustler, constant learner, and a striver.
  
-But what has this “Visionary” actually done?
+WHAT HAS THIS "VISIONARY" ACTUALLY DONE?
 
 Since founding Blot, inc. (the legal company behind Stick) in March 2015, I have:
 
@@ -30,6 +34,8 @@ Since founding Blot, inc. (the legal company behind Stick) in March 2015, I have
 ·   Interviewed users, constantly. I’ve interviewed 608 users (and counting) and have shared the idea with over 2500 people across various iterations of this company. The product has evolved, but the “why” has not. I’ve learned that people don’t just want a better way. They need it.
  
 ·   Surrounded myself with people smarter than I am. Instead of having one co-founder, I’ve had about a dozen rotating “co-founders,” as I’ve been seeking advice and collaborating with some of the best product managers, designers, and business leaders in the industry, from companies like Prezi, IDEO, and Tableau.
+ 
+-----------------------------------WHY YOU?----------------------------------- 
  
 Who is Stick looking for?
  
@@ -57,9 +63,9 @@ Once we’re ready, I’ve got a strong network of advisors and investors so I�
  
 The bottom line: This is a super high risk, super high return opportunity. To be honest, though - if you’re in this for the money, you probably aren’t the right fit.
 
-But really, why should I join you?
+-----------------------------------BUT REALLY, WHY JOIN US?-----------------------------------
  
-I’m don’t like self-promotion, but I asked former colleagues to tell you why you would want to work with me. Here’s what they said:
+I’m don’t like self-promotion, but I asked former colleagues to tell you why you would want to work with me on Stick. Here’s what they said:
  
 “Collaborative, passionate and have a nose for what moves the needle. Plus such high energy the day flies by” 
 – Colleague, Bain & Company
@@ -73,7 +79,6 @@ I’m don’t like self-promotion, but I asked former colleagues to tell you why
 “You’re really passionate about your idea. You have a long-term vision that you’ve been working on for years. Everyone who’s seen what you do agrees that this needs to be a product.” 
 – Classmate, Stanford
  
-
 I hope you’ll consider joining me. 
 
 Email alli.mckee@gmail.com a little about your background, which role you’re interested in and why, and “we’ll” be in touch with next steps.
